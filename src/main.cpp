@@ -2483,7 +2483,7 @@ bool LoadBlockIndex(bool fAllowNew)
         if (!fAllowNew)
             return false;
 
-        const char* pszTimestamp = "";
+        const char* pszTimestamp = "Bitpaycoin restarting timer 10/17/2017";
         CTransaction txNew;
         txNew.nTime = 1409500351; //Sun, 31 Aug 2014 15:52:31 GMT
         txNew.vin.resize(1);
