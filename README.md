@@ -45,13 +45,19 @@ From block 10,800,000 POS will start . 1% Annual PoS.
 ## Ports
 
 RPC Port = 6876
+
 P2P Port = 6877
+
 Testnet RPC: 16876
+
 Testnet P2P: 16877 
 
 Website: https://bitpaycoin.co/
+
 Block Explorer: http://block.bitpaycoin.org/
+
 Local exchange: http://bitpaycoin.co/exchange
+
 ## Wallet:
  
 WINDOWS/Linux: https://bitpaycoin.co/choose-your-bitpaycoin-wallet
@@ -59,8 +65,12 @@ WINDOWS/Linux: https://bitpaycoin.co/choose-your-bitpaycoin-wallet
 ## Community
 
 Facebook: https://www.facebook.com/groups/251460698714581
+
 Twitter: https://twitter.com/BitPaycoin
+
 Telegram: https://t.me/bitpaycoin
+
 Slack: https://bitpaycoin.slack.com/
+
 Forum: https://bitcointalk.org/index.php?topic=2338858.msg23802654#msg23802654
 
