@@ -6,7 +6,7 @@ Our new algorithm is based on X15 POW + POS (After 5 years we will be POS).
 
 This new algorithm is design to be adoptable for future applications. BP has a stable & fast system, with robust security capabilities.
 
-http://bitpaycoin.com
+https://bitpaycoin.co
 
 ## License
 
@@ -20,7 +20,7 @@ Our development is based on an professional developer and we will be happy to he
 
 Name: BitpayCoin
 Symbol: BP or </>
-Total coin: 90 Billion 
+Total coin: 21 Million 
 Block time: 60 seconds 
 Difficulty Re-targets: Every block Confirmations on Transactions: 10 
 Maturity: 15
@@ -40,7 +40,7 @@ Proof of Developer: http://cryptoasian.com/html-bitpaycoin/
 
 ## POW Reward
 Total Block: 10,800,000 
-Block 11 - 10,800,000: 5 000 BP After block 10,800,000 POS will start . 1% Annual PoS.
+From block 10,800,000 POS will start . 1% Annual PoS.
 
 ## Ports
 
@@ -49,21 +49,18 @@ P2P Port = 6877
 Testnet RPC: 16876
 Testnet P2P: 16877 
 
+Website: https://bitpaycoin.co/
+Block Explorer: http://block.bitpaycoin.org/
+Local exchange: http://bitpaycoin.co/exchange
 ## Wallet:
  
-WINDOWS: http://seed.bitpaycoin.net/BitpayCoin-1.3.2.1-setup.exe
-MAC OS:  http://seed.bitpaycoin.net/Bitpaycoin-1.3.2.1-Mac.dmg
-
-## Blockchain 
-
-http://seed.bitpaycoin.net/bitpaycoin_blockchain.zip
+WINDOWS/Linux: https://bitpaycoin.co/choose-your-bitpaycoin-wallet
 
 ## Community
 
-Facebook: https://www.facebook.com/groups/bitpaycoin/
-Twitter: https://twitter.com/BitpayCoin
-Reddit: http://www.reddit.com/r/bitpaycoin_community/
-Telegram: https://t.me/bitpaycoinofficial
-Slack: https://bitpaycoin.slack.com/messages
-Forum: https://cryptocointalk.com/topic/17467-bitpaycoin-html5-information/
+Facebook: https://www.facebook.com/groups/251460698714581
+Twitter: https://twitter.com/BitPaycoin
+Telegram: https://t.me/bitpaycoin
+Slack: https://bitpaycoin.slack.com/
+Forum: https://bitcointalk.org/index.php?topic=2338858.msg23802654#msg23802654
 
