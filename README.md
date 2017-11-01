@@ -31,8 +31,8 @@ Swap: 40% use in transitiong to new coin
 
 ## Quality
 
-Proof of Developer: http://proofofdev.com/project/html-bitpaycoin/
-Proof of Developer: http://cryptoasian.com/html-bitpaycoin/
+Proof of Developer: http://proofofdev.com/project/bitpaycoin/
+Proof of Developer: http://cryptoasian.com/bitpaycoin/
 
 ## Algorithm: X15
 
